@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+animeedu.db
+node_modules/
+dist/
+.DS_Store
+.env
+frontend/.env
+backend/app/generated/videos/*.mp4
+backend/app/generated/videos/*.mp3
